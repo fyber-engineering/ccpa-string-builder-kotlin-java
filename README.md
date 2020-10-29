@@ -42,4 +42,4 @@ CCPA String Component Values (value could not be null):
 
 
 Link to California Consumer Privacy Act:
-https://iabtechlab.com/wp-content/uploads/2019/11/U.S.-Privacy-String-v1.0-IAB-Tech-Lab.pdf
+https://github.com/InteractiveAdvertisingBureau/USPrivacy/blob/master/CCPA/US%20Privacy%20String.md
